@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: virtualenvwrapper-powershell
+Version: 12.7.8
+Summary: Enhancements to virtualenv (for Windows). A clone of Doug Hellmann's virtualenvwrapper
+Home-page: https://bitbucket.org/guillermooo/virtualenvwrapper-powershell/overview
+Author: Guillermo López
+Author-email: guilan70@hotmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: Windows XP
+Platform: Windows Vista
+Platform: Windows 7
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Intended Audience :: Developers
+Classifier: Environment :: Console
